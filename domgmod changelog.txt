@@ -1,0 +1,67 @@
+*==========================*
+*                          *
+*    /domg/ Balance Mod    *
+*                          *
+*==========================*
+
+This is ostensibly a balance mod, but mostly is things I think should
+be fixed and have noticed.
+If you have a particular thing you think should be addressed, there's a
+google doc here:
+https://docs.google.com/document/d/1wGpevUd4nflnAh9qlszXVQsLbSxzyasuOhimhAWsW-Q/edit#heading=h.hrdt488j0ae4
+Where you can leave a note and I will be able to see it.
+
+The mod itself lives here:
+https://github.com/EMcG0402429/domgmod-dom5
+All of the releases, such as they are, will be on the Releases page.
+If you have spotted a cockup, there's error tracking where you can
+report that.
+If you think I have fucked up and you can do much better, feel free to
+fork it, fix things, and submit pull requests.
+
+
+CHANGELOG
+---------
+v2.00
+-   Cu Sidhe are now capable of barking at people in a seriously spooky
+    manner.
+-   Living Pillars, following extensive workplace safety training, now
+    understand the value of head protection.
+-   Crab Generals now come in Crab Soldier flavor, and both flavors 
+    recuperate and show up in coastal forts.
+-   Cave crabs recuperate as well.
+-   Swans still aren't sacred, but at least no longer actively get in
+    the way of your attempts to siege things.
+-   Morvar'ch riding Ys troops/commanders now get a tail slap and
+    boiling breath attack from their mounts, when underwater.
+-   Ys cavalry that DON'T ride on murderous fire breathing horses just
+    get the tail slap from the mount.
+-   Aphroi and Ichthycentaurs get their own version of the tailslap
+    (benefiting from str, as they're centaurs) underwater, and a hoof
+    attack on land.
+-   Aphroi also get an additional attack from their tiny adorable
+    sacred claws.
+-   EA Machakan War Lions are now sacred, on account of being super
+    totemic and generally revered.
+-   MA Machakan Black Sorcerors are now sacred, on account of being
+    literally descended from god.
+-   Scelerian Thaumaturgs have been taking correspondence courses as
+    part of an effort to ascend to Grand Thaumaturg, and now have a 50%
+    chance to get an extra +1 AWSD.
+-   LA Pythium's Revellers are now applying themselves properly to
+    their party planning, and have managed to improve their 20%NB to
+    100%NB.
+-   Jomon's samurai cavalry have worked out how to make their horses
+    kick things.
+-   Most spiders now know how to climb walls.
+-   Lemurian bids on mercenary services are now subject to an
+    additional 100% "You want to kill all that lives and bind their
+    restless souls eternally to this dying world" fee.
+-   Breath of The Desert is now F3, rather than F3A1
+-   LA Pythium's Serpent Priests have discovered how to lure out Hydra
+    with nature gems instead of going through their standard hiring
+    process, which unduly restricted Hydra opportunities. (Conj4, N2H2)
+-   There's a super innovative new Fire spell at Conj5 that lets you
+    boost the entire battlefield's abilities in Fire magic. (Conj5 F3)
+-   Machakan research mages have developed a spell for making all their
+    animals go very fast. (Ench7 N4)
