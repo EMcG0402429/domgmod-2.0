@@ -293,6 +293,12 @@
 #merccost 100
 #end
 
+--EA Yomi--
+-- Demon Priests can now be recruited in any province with a temple.
+#selectnation 27
+#addforeigncom 1609
+#end
+
 -----------
 -- MAGIC --
 -----------
