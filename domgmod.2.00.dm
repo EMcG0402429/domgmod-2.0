@@ -259,6 +259,20 @@
 #scalewalls
 #end
 
+-- Neodamode Hoplite/Ekdromos/Peltast --
+-- EA Mekone
+-- Lowered gold cost to reduce upkeep
+#selectmonster 3102
+#gcost 24
+#end
+
+#selectmonster 3104
+#gcost 24
+#end
+
+#selectmonster 3106
+#gcost 24
+#end
 
 ---------------
 -- New Units --
