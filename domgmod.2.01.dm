@@ -1,6 +1,6 @@
-#modname "/domg/ Balance Mod 2.00"
+#modname "/domg/ Balance Mod 2.01"
 #description "A balance mod for nubs and scrubs alike: Dominions 5 Edition"
-#version 2.00
+#version 2.01
 #icon "domgmod/domg.tga"
 #end
 

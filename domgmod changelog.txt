@@ -22,6 +22,11 @@ fork it, fix things, and submit pull requests.
 
 CHANGELOG
 ---------
+v2.01
+-   Yomi demon priests are now recruit anywhere (that has a temple).
+-   Scelerian Thaumaturg random scaled down to 20% AW.
+-   Mekone XP-formed human troops have lowered upkeep.
+
 v2.00
 -   Cu Sidhe now have a terrifying bark attack which causes fear and
     sometimes heart attacks.
