@@ -183,9 +183,9 @@
 
 -- Thaumaturg --
 -- MA Sceleria
--- Now have a 50% chance +1 AWSD to improve out-of-cap path variety a little.
+-- Now have a 20% chance +1 AW to improve out-of-cap path variety a little.
 #selectmonster 669
-#custommagic 6912 50
+#custommagic 768 20
 #end
 
 -- Reveller --
